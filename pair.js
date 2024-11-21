@@ -57,27 +57,28 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*FREDI_ADAMS_MD*
-*FREDI_ADAMS*
-*𝙇𝙀𝙂𝙄𝙏 𝘽𝙊𝙏*
+*YESSER_MD*
+*powerd by yessertech*
+*🤠🤠🤠🤠🤠🤠🤠*
 ____________________________________
 ╔════◇
 ║『 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍』
 
-║ ❒ FREDI_ADAMS: _https://wa.link/1eyv9w_
+║ ❒ dev yesser: _https://wa.me/255621995482_
 
 ╚════════════════════❒
 ╔═════◇
 ║ 『••• OWNER INFO •••』
-║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@freeonlinetvT1_
+║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@Yesserboy92_
 
-║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.link/1eyv9w_
+║ ❒ dev hans:_255756530143_ boniphace:_255716661569__
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VafeCKHKmCPMtW3bFA08_
-
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞l vs Wagroup_
+  1. _https://whatsapp.com/channel/0029VafCB3o1HspqKxulv82s_
+  2. _https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30_
 ║ 
 ╚════════════════════╝ 
- *FREDI_ADAMS_MD*
+ *_keep using YESSER MD 💔*
 ___________________________________
 
 Don't Forget To Give Star To My Repo`
