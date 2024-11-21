@@ -59,27 +59,27 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 	
 				   let SIGMA_MD_TEXT = `
-*MSELA_PAKA_MDX*
-*FREDIE TECH*
-*𝙇𝙀𝙂𝙄𝙏 𝘽𝙊𝙏*
+*YESSER MD*
+*role by yessertech*
+*🤠🤠🤠🤠🤠🤠*
 ____________________________________
 ╔════◇
 ║『 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍』
 
-║ ❒ FREDIE TECH: _https://wa.link/1eyv9w_
+║ ❒ YESSER TECH: _https://wa.me/255621995482_
 
 ╚════════════════════❒
 ╔═════◇
 ║ 『••• OWNER INFO •••』
-║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@freeonlinetvT1_
+║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@Yesserboy92_
 
-║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.link/1eyv9w_
+║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/255621995482_
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VafeCKHKmCPMtW3bFA08_
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30._
 
 ║ 
 ╚════════════════════╝ 
- *MSELA_PAKA_MD*
+ *_keep using YESSER MD_*
 ___________________________________
 
 Don't Forget To Give Star To My Repo`
